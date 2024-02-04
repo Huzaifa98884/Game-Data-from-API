@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8C0BEBA5-6527-494A-9FD0-0322C7D350D5"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B98B649-324F-4C35-9EDC-F2A39F599B19"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "game-assignment/AllGamesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "parseJSON(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9B98B649-324F-4C35-9EDC-F2A39F599B19 - 34603b9120773797"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "game_assignment.AllGamesViewController.parseJSON(Foundation.Data) -&gt; ()"
+                  moduleName = "game-assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/habbasi/Desktop/course%20dev/game-assignment/game-assignment/AllGamesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "1044">
+               </Location>
+               <Location
+                  uuid = "9B98B649-324F-4C35-9EDC-F2A39F599B19 - 34603b9120773797"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "game_assignment.AllGamesViewController.parseJSON(Foundation.Data) -&gt; ()"
+                  moduleName = "game-assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/habbasi/Desktop/course%20dev/game-assignment/game-assignment/AllGamesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "1040">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FBE79B72-15C8-47EB-88B3-8F3A4513AA31"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "game-assignment/AllGamesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "fetchData(urlString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FBE79B72-15C8-47EB-88B3-8F3A4513AA31 - 44320f1d0da43643"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "game_assignment.AllGamesViewController.fetchData(urlString: Swift.String) -&gt; ()"
+                  moduleName = "game-assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/habbasi/Desktop/course%20dev/game-assignment/game-assignment/AllGamesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  uuid = "FBE79B72-15C8-47EB-88B3-8F3A4513AA31 - f6945f29f54f7b5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in game_assignment.AllGamesViewController.fetchData(urlString: Swift.String) -&gt; ()"
+                  moduleName = "game-assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/habbasi/Desktop/course%20dev/game-assignment/game-assignment/AllGamesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "FBE79B72-15C8-47EB-88B3-8F3A4513AA31 - 44320f1d0da439a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "game_assignment.AllGamesViewController.fetchData(urlString: Swift.String) -&gt; ()"
+                  moduleName = "game-assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/habbasi/Desktop/course%20dev/game-assignment/game-assignment/AllGamesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5E3340B-AFE3-4A22-9930-B0E834FC03C8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "game-assignment/AllGamesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "searchBarSearchButtonClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E5E3340B-AFE3-4A22-9930-B0E834FC03C8 - df92b07764847b8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "game_assignment.AllGamesViewController.searchBarSearchButtonClicked(__C.UISearchBar) -&gt; ()"
+                  moduleName = "game-assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/habbasi/Desktop/course%20dev/game-assignment/game-assignment/AllGamesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "668">
+               </Location>
+               <Location
+                  uuid = "E5E3340B-AFE3-4A22-9930-B0E834FC03C8 - df92b07764847b68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "game_assignment.AllGamesViewController.searchBarSearchButtonClicked(__C.UISearchBar) -&gt; ()"
+                  moduleName = "game-assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/habbasi/Desktop/course%20dev/game-assignment/game-assignment/AllGamesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "816">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41C7D928-93AB-46A6-A0A4-E252361E384F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "game-assignment/AllGamesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "fetchData(urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
